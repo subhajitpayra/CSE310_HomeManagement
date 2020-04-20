@@ -303,7 +303,7 @@ class calculate extends Home{
     //}
 }
 
-class  HOME_MANAGEMENT_SYSTEM{
+public class  HOME_MANAGEMENT_SYSTEM{
 
     public static void main(String[] args) {
         System.out.println("WELCOME TO HOME MANAGEMENT SYSTEM");
